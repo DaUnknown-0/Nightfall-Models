@@ -1,10 +1,10 @@
 {
- "tag": "v1",
+ "tag": "v2",
  "files": [
   {
    "name": "museum.nfm",
-   "size": 26846830,
-   "sha256": "1d45db17ecf9243d325f9957c1833afa213f9f3cdcb7bfe5af446f0c1ca6e2d8"
+   "size": 24849803,
+   "sha256": "ba5dad1c51dfa1e293cd0b451627af6cd181fd5bd9ed388c41421b11ad63198d"
   },
   {
    "name": "wald.nfm",
@@ -13,8 +13,8 @@
   },
   {
    "name": "park.nfm",
-   "size": 27858422,
-   "sha256": "fe19a798994f067824fd74011c2bdb943578a0b8e160198e59f7648d62ffcb11"
+   "size": 42933490,
+   "sha256": "2585264551ac37d312ea101186020d48563498b0f63178450ec61b36deec2812"
   }
  ]
 }

@@ -1,10 +1,10 @@
 {
- "tag": "v2",
+ "tag": "v3",
  "files": [
   {
    "name": "museum.nfm",
-   "size": 24849803,
-   "sha256": "ba5dad1c51dfa1e293cd0b451627af6cd181fd5bd9ed388c41421b11ad63198d"
+   "size": 24905072,
+   "sha256": "c2554d416911540c0f4eba6435e9bec2608f3986b24c04fcd24d667bde27aa4b"
   },
   {
    "name": "wald.nfm",
